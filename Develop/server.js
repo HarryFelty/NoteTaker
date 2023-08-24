@@ -30,7 +30,6 @@ app.post('/api/notes', (req, res) => {
         } else {
             console.log("Note saved!");
         }
-        res.sendFile(path.join(__dirname, './public/notes.html'));
     });
 })
 
