@@ -19,6 +19,19 @@ N/A
 
 This project can be used to make and save notes. Notes can also be deleted as needed. It can also be used to demonstrate the use of responses from a server, even in a simple application such as this.
 
+Repo: https://github.com/HarryFelty/NoteTaker
+
+URL: https://harryfelty.github.io/NoteTaker/
+
+Heroku URL:https://morning-ravine-01995-b5edeb6b70bb.herokuapp.com/
+
+
+![Screenshot 2023-08-24 175046](https://github.com/HarryFelty/NoteTaker/assets/125701349/c2616e64-ed9d-4b99-a312-b4e82d327967)
+
+
+
+![Untitled_ Aug 24, 2023 5_54 PM](https://github.com/HarryFelty/NoteTaker/assets/125701349/e27925e0-f484-4c69-b3c9-1a91bd19ae8c)
+
 
 
 ## Credits
