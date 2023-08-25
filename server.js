@@ -30,6 +30,7 @@ app.post('/api/notes', (req, res) => {
         } else {
             console.log("Note saved!");
         }
+        res.sendFile(path.join(__dirname, './public/notes.html'));
     });
 })
 
@@ -48,7 +49,7 @@ app.delete('/api/notes/:id', (req, res) => {
 })
 
 app.get('*', (req, res) => {
-    res.sendFile(path.join(__dirname, './public/index.html'))
+    res.sendFile(path.join(__dirname, './index.html'))
 })
 
 app.listen(PORT, () =>
